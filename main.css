@@ -257,3 +257,62 @@ text-decoration:none;
     color: gray;
 }
   /* Body 7 End */
+
+  /* Body 8 Start */
+  .body8 {
+    background-color: #F4EDE4;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.ptake {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card {
+    display: inline-block;
+    width: 18rem;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.link p:first-child {
+    margin-right: auto;
+}
+
+.link p:last-child {
+    margin-left: auto;
+}
+
+#state {
+    padding-bottom: 47px;
+}
+
+#customer {
+    padding-bottom: 25px;
+}
+
+#webinar {
+    padding-bottom: 25px;
+}
+
+  /* Body 8 End */
