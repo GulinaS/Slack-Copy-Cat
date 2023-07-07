@@ -137,6 +137,7 @@ h2{
   .column4 >a{
     font-size: 20px;
 font-weight:530;
+text-decoration:none;
 }
   /* Body 4 End */
 
@@ -170,6 +171,7 @@ font-weight:530;
   .column5 >a{
     font-size: 20px;
 font-weight:530;
+text-decoration:none;
 }
   /* Body 5 End */
 
@@ -202,5 +204,56 @@ font-weight:530;
   .column6 >a{
     font-size: 20px;
 font-weight:530;
+text-decoration:none;
 }
-  /* Body 4 End */
+  /* Body 6 End */
+
+   /* Body 7 Start */
+.body7{
+    background-color:white;}
+    
+
+  #container7 {
+    
+    display: flex;
+  flex-wrap: wrap;
+  
+  padding: 0%;
+  border: 0%;
+  
+  }
+
+  .column7 {
+    flex-basis: 50%;
+    padding: 20px;
+    padding-top: 80px;
+    
+  }
+  #text7{
+    padding-left: 70px;
+    
+  }
+  .hw{
+    font-size: 25px;
+font-weight:330;
+font-style: italic;
+}
+  .pj{
+        font-size: 20px;
+    font-weight:530;
+  }
+  .pw{
+    font-size: 20px;
+font-weight:530;
+}
+  .column7 >a{
+    font-size: 20px;
+font-weight:530;
+text-decoration:none;
+}
+.pp{
+    text-align: center;
+    font-size: small;
+    color: gray;
+}
+  /* Body 7 End */
