@@ -316,3 +316,26 @@ a {
 }
 
   /* Body 8 End */
+
+
+  /* Body 9 Start */
+  .body9{
+    background-color:#541454 !important;
+    padding-bottom: 60px;
+    border-radius: 0 0 40% 40%;
+    
+  }
+
+  .see{
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+  }
+  .button{
+    justify-content: center;
+  }
+  
+
+  /* Bosy 9 End */
